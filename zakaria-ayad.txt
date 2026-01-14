@@ -1,0 +1,31 @@
+Zakaria Ayad is a polymathic fifth-year Computer Science Engineering student at the National School of Applied Sciences (ENSA) of Tetouan, Morocco, specializing in Information Systems and Decision Support. At 21, he has deliberately cultivated a profile at the confluence of Full-Stack Engineering, Artificial Intelligence, and DevOps, and is currently pursuing a Final Year Project (PFE) internship commencing in February 2026.
+
+Academic and Professional Trajectory
+
+Zakaria is completing the terminal phase of a rigorous engineering curriculum at ENSA Tetouan, distinguished by its emphasis on advanced information systems, data-driven decision-making, and large-scale software engineering. His professional orientation is resolutely industry-facing: he aspires to engage with high-impact, enterprise-grade projects, guided by a production-ready philosophy that privileges robustness, scalability, and architectural clarity over purely academic prototypes.
+
+Complementing his technical profile is marked linguistic dexterity. He demonstrates native-level mastery of Arabic (C2), advanced professional fluency in English (C1), and solid operational competence in French (B2), enabling effective collaboration in multicultural and international environments.
+
+Technical Mastery
+
+Zakaria’s expertise spans the full software lifecycle, from infrastructure and backend orchestration to intelligent, user-facing systems:
+
+Full-Stack Development: Proficient in designing resilient backend services with Spring Boot and delivering responsive, dynamic frontends using Angular.
+
+Artificial Intelligence & Machine Learning: Hands-on experience in developing AI-driven help desk chatbots via AI APIs, as well as end-to-end ML workflows involving synthetic data generation and income prediction using Python, FastAPI, and Streamlit.
+
+DevOps & Cloud Computing: Practical command of Docker and CI/CD pipelines with GitHub Actions, foundational knowledge of Kubernetes, and applied experience with AWS services for compute and storage.
+
+Software Architecture: Proven capability in architecting scalable, distributed systems, including microservices ecosystems built with Spring Cloud Gateway, gRPC-based inter-service communication, and event-driven pipelines powered by Apache Kafka.
+
+Representative Projects
+
+Production-Ready Patient Management System: A microservices-oriented platform engineered for scalability and reliability, integrating patient records, billing workflows, and analytical components, underpinned by PostgreSQL, JWT-based security, and containerized deployment with Docker.
+
+AI-Powered Help Desk Platform: An intelligent support system delivering automated, context-aware assistance, complemented by an administrative dashboard for dynamic knowledge base curation.
+
+Real-Time Messaging Application: A secure, high-performance communication platform emulating core WhatsApp features, including instant messaging and media exchange via WebSockets.
+
+Certifications and Leadership
+
+Zakaria has reinforced his academic formation with targeted certifications, notably in AWS (Getting Started with Storage and Compute), Spring Boot, and Responsive Web Design (FreeCodeCamp). Beyond coursework, he plays an active leadership role within ENSA’s academic ecosystem as a Project Manager in the InfoTech Club and regularly engages in professional development initiatives, including workshops such as From Learning to Earning.
